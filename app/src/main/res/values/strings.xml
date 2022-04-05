@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRollerImage</string>
+    <string name="roll_button">Rolar Dado</string>
+    <string name="Text2">Informe seu número da sorte</string>
+</resources>
